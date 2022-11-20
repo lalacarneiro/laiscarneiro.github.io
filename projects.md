@@ -3,6 +3,7 @@ layout: default
 title: Projects
 description: Publications, projects and research activities
 ---
+
 ## What's new?
 
 [Non-native species in Protected Areas](https://www.researchgate.net/project/Effects-of-non-native-species-in-protected-areas)
