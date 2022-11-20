@@ -2,21 +2,27 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# About me
 
-# Header 1
+I'm an Environmental Engineer and Ph.D. student in Ecology and Conservation at the Federal University of Paraná State. My research focuses on the impacts of non-native species in protected areas. I also investigate spatiotemporal patterns of invasive species, particularly in the neotropical region.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<br>
 
-## Header 2
+# Social media
 
-> This is a blockquote following a header.
+> Twitter https://twitter.com/LaisCarneiro03
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> Researchgate https://www.researchgate.net/profile/Lais-Carneiro
+>
+> Github https://github.com/lalacarneiro/
+>
+> ORCID https://orcid.org/0000-0002-3828-7751
+>
+> LinkedIn https://www.linkedin.com/in/laiscarneiro/
 
+<br>
+
+## [Projects](./another-page.html)
