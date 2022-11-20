@@ -1,9 +1,8 @@
 ---
 layout: default
+title: Laís Carneiro
+description: Environmental Engineer
 ---
-
-
-
 
 # About me
 
