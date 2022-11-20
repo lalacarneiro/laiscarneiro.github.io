@@ -24,4 +24,4 @@ I'm an Environmental Engineer and Ph.D. student in Ecology and Conservation at t
 
 <br>
 
-## [Projects](./another-page.html)
+## [Projects](./projects.html)

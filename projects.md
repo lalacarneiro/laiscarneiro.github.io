@@ -28,4 +28,3 @@ description: Publications, projects and research activities
 >
 >Request the full text here: [ResearchGate](https://www.researchgate.net/publication/360120666_Brazilian_pesticides_law_could_poison_the_world)
 
-[back](./)
