@@ -19,5 +19,3 @@ I'm an Environmental Engineer and Ph.D. student in Ecology and Conservation at t
 [![LinkedIn](./assets/images/linkedin_icon_circle.png "My LinkedIn: @laiscarneiro")](https://www.linkedin.com/in/laiscarneiro/)
 
 <br>
-
-## [Projects](./projects.html)
