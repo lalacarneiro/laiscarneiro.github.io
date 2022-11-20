@@ -4,9 +4,10 @@
 @import 'jekyll-theme-cayman';
 
 .page-header {
-    color: #3c3c3c;
     background-color: #f4eaff;
-    background-image: none;
+    background-image: url(/assets/images/montanhasatlasmarrocos.jpg);
+    background-size: cover;
+    background-position: center center
 }
 
 body {
