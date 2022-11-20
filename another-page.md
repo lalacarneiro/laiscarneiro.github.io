@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projects
-description: 
+description: Publications, projects and research activities
 ---
 ## What's new?
 
