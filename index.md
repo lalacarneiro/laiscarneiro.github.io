@@ -12,15 +12,15 @@ I'm an Environmental Engineer and Ph.D. student in Ecology and Conservation at t
 
 # Social media
 
-> Twitter https://twitter.com/LaisCarneiro03
+> [Twitter](https://twitter.com/LaisCarneiro03)
 >
-> Researchgate https://www.researchgate.net/profile/Lais-Carneiro
+> [ResearchGate](https://www.researchgate.net/profile/Lais-Carneiro)
 >
-> Github https://github.com/lalacarneiro/
+> [Github](https://github.com/lalacarneiro/)
 >
-> ORCID https://orcid.org/0000-0002-3828-7751
+> [ORCID](https://orcid.org/0000-0002-3828-7751)
 >
-> LinkedIn https://www.linkedin.com/in/laiscarneiro/
+> [LinkedIn](https://www.linkedin.com/in/laiscarneiro/)
 
 <br>
 
