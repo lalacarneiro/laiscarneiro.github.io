@@ -14,10 +14,6 @@
     opacity: 1;
 }
 
-body {
-    font-family: 'Playfair Display', serif;
-}
-
 .main-content h1, 
 .main-content h2,
 .main-content h3,
@@ -32,9 +28,15 @@ body {
 }
 
 img {
-    height: 80px;
+    height: 60px;
 }
 
 .socialMedias {
     display: flex;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
 }
