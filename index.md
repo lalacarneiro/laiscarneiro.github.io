@@ -6,7 +6,7 @@ description: Environmental Engineer
 
 # About me
 
-I'm an Environmental Engineer and Ph.D. student in Ecology and Conservation at the Federal University of Paraná State. My research focuses on the impacts of non-native species in protected areas. I also investigate spatiotemporal patterns of invasive species, particularly in the neotropical region.
+I'm an Environmental Engineer and Ph.D. candidate in Ecology and Conservation at the Federal University of Paraná State. My research focuses on the impacts of invasive species in protected areas. I also investigate spatiotemporal patterns of invasive species, particularly in the neotropical region.
 
 <br>
 
