@@ -4,14 +4,17 @@ title: Projects
 description: Publications, projects and research activities
 ---
 
-## What's new?
-
-[Non-native species in Protected Areas](https://www.researchgate.net/project/Effects-of-non-native-species-in-protected-areas)
-
-[II InvaCost Workshop Marrakesh](https://invacost.fr/en/accueil/)
 
 
-## Latest publications
+[Advancing our understanding of biological invasions with long-term biomonitoring data](https://link.springer.com/article/10.1007/s10530-023-03141-0) 
+
+> Haubrock, P. J., **Carneiro, L.**, Macêdo, R. L., Balzani, P., Soto, I., Rasmussen, J. J., ... & Ahmed, D. A. (2023). Advancing our understanding of biological invasions with long-term biomonitoring data. Biological Invasions, 1-13.
+>
+> **Abstract:** The use of long-term datasets is crucial in ecology because it provides a comprehensive understanding of natural fluctuations, changes in ecosystems over extended periods of time, and robust comparisons across geographical scales. This information is critical in detecting and analysing trends and patterns in species populations, community dynamics, and ecosystem functioning, which in turn helps in predicting future changes and impacts of human activities. Additionally, long-term data sets allow for the evaluation of the effectiveness of conservation efforts and management strategies, enabling scientists and decision makers to make evidence-based decisions for biodiversity conservation. Although the use of long-term data is recognized as highly important in several scientific disciplines, its usage remains undervalued regarding questions in invasion science. Here, we used four regional subsets (i.e. England, Hungary, Denmark and the Dutch-German-Luxembourg) of a recently collated long-term time series database to investigate the abundance and dynamics of occurring non-native species over space and time in Europe. While we found differences in the numbers of non-native species across the studied regions (Dutch-German-Luxembourg region = 37; England = 17, Hungary = 34; Denmark = 3), non-native species detection rates were continuous over time. Our results further show that long-term monitoring efforts at large spatial scales can substantially increase the accuracy and rate at which non-native species are detected. This information can inform management endeavours dealing with non-native species, underlining the need for invasion scientists and authorities-stakeholders to make more effort in collecting, analysing and making available long-term datasets at broader geographic ranges.
+>
+> Full text here: [Biological Invasions](https://link.springer.com/article/10.1007/s10530-023-03141-0)
+
+<br>
 
 [Invasive species policy in Brazil: a review and critical analysis](https://www.cambridge.org/core/journals/environmental-conservation/article/abs/invasive-species-policy-in-brazil-a-review-and-critical-analysis/37E1F26619ABD5B1FDDE115736D7AB2B) 
 
