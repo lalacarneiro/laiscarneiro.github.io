@@ -35,7 +35,6 @@
 
 .social-media-links img {
     height: 60px;
-    transition: transform 0.2s ease-in-out;
 }
 
 .social-media-links a:focus-visible {
@@ -45,6 +44,10 @@
 }
 
 @media (prefers-reduced-motion: no-preference) {
+    .social-media-links img {
+        transition: transform 0.2s ease-in-out;
+    }
+
     .social-media-links a:hover img,
     .social-media-links a:focus-visible img {
         transform: translateY(-2px);
