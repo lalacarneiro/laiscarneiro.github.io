@@ -18,6 +18,6 @@ I'm an Environmental Engineer and Ph.D. in Ecology and Conservation. My research
 [![ORCID](./assets/images/orcid_icon_circle.png "My ORCID: 0000-0002-3828-7751")](https://orcid.org/0000-0002-3828-7751)
 [![LinkedIn](./assets/images/linkedin_icon_circle.png "My LinkedIn: @laiscarneiro")](https://www.linkedin.com/in/laiscarneiro/)
 [![Google Scholar](./assets/images/google_scholar_icon_circle.svg "My Google Scholar profile")](https://scholar.google.com/citations?user=rUvrtAsAAAAJ&hl=pt-BR&oi=ao)
-{: .social-medias}
+{: .social-media-links}
 
 <br>

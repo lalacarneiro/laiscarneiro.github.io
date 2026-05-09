@@ -27,19 +27,19 @@
     border-left: 0.3rem solid #f4eaff;
 }
 
-.social-medias {
+.social-media-links {
     display: flex;
     flex-wrap: wrap;
     gap: 0.5rem;
 }
 
-.social-medias img {
+.social-media-links img {
     height: 60px;
     transition: transform 0.2s ease-in-out;
 }
 
-.social-medias a:hover img,
-.social-medias a:focus-visible img {
+.social-media-links a:hover img,
+.social-media-links a:focus-visible img {
     transform: translateY(-2px);
 }
 
