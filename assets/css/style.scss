@@ -35,11 +35,11 @@
 
 .social-medias img {
     height: 60px;
+    transition: transform 0.2s ease-in-out;
 }
 
 .social-medias a:hover img {
     transform: translateY(-2px);
-    transition: transform 0.2s ease-in-out;
 }
 
 nav ul {
