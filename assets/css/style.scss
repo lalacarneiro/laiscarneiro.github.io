@@ -38,7 +38,8 @@
     transition: transform 0.2s ease-in-out;
 }
 
-.social-medias a:hover img {
+.social-medias a:hover img,
+.social-medias a:focus-visible img {
     transform: translateY(-2px);
 }
 
