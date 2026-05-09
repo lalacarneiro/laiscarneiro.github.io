@@ -27,12 +27,19 @@
     border-left: 0.3rem solid #f4eaff;
 }
 
-img {
+.social-medias {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.social-medias img {
     height: 60px;
 }
 
-.socialMedias {
-    display: flex;
+.social-medias a:hover img {
+    transform: translateY(-2px);
+    transition: transform 0.2s ease-in-out;
 }
 
 nav ul {

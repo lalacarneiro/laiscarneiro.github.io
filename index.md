@@ -12,10 +12,12 @@ I'm an Environmental Engineer and Ph.D. in Ecology and Conservation. My research
 
 # Social media
 
-[![Twitter](./assets/images/twitter_icon_circle.png "My Twitter: @LaisCarneiro03")](https://twitter.com/LaisCarneiro03) 
-[![ResearchGate](./assets/images/researchgate_icon_circle.png "My ResearchGate: @Lais-Carneiro")](https://www.researchgate.net/profile/Lais-Carneiro) 
-[![Github](./assets/images/github_icon_circle.png "My Github: @lalacarneiro")](https://github.com/lalacarneiro/) 
-[![ORCID](./assets/images/orcid_icon_circle.png "My ORCID: 0000-0002-3828-7751")](https://orcid.org/0000-0002-3828-7751) 
+[![Twitter](./assets/images/twitter_icon_circle.png "My Twitter: @LaisCarneiro03")](https://twitter.com/LaisCarneiro03)
+[![ResearchGate](./assets/images/researchgate_icon_circle.png "My ResearchGate: @Lais-Carneiro")](https://www.researchgate.net/profile/Lais-Carneiro)
+[![Github](./assets/images/github_icon_circle.png "My Github: @lalacarneiro")](https://github.com/lalacarneiro/)
+[![ORCID](./assets/images/orcid_icon_circle.png "My ORCID: 0000-0002-3828-7751")](https://orcid.org/0000-0002-3828-7751)
 [![LinkedIn](./assets/images/linkedin_icon_circle.png "My LinkedIn: @laiscarneiro")](https://www.linkedin.com/in/laiscarneiro/)
+[![Google Scholar](https://cdn.simpleicons.org/googlescholar/48116a "My Google Scholar profile")](https://scholar.google.com/citations?user=rUvrtAsAAAAJ&hl=pt-BR&oi=ao)
+{: .social-medias}
 
 <br>
