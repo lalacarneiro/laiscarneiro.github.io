@@ -65,7 +65,6 @@ permalink: /cv.html
   <h2>Teaching and service</h2>
   <ul class="plain-list">
     <li>Around 90 hours of university teaching in ecology and environmental engineering.</li>
-    <li>Evaluator for Marie Skłodowska-Curie Actions proposals.</li>
     <li>Session co-chair, NeoBiota 2026.</li>
     <li>Peer reviewer for journals in ecology and conservation.</li>
   </ul>
