@@ -1,43 +1,54 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: 'en' }}">
   <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#4A1D5C">
 
     {% seo %}
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#ebd7ff">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400..700&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
     {% include head-custom.html %}
   </head>
   <body>
-    {% include navbar.html %}
+    <a class="skip-link" href="#content">Skip to the content</a>
 
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
-    <header class="page-header" role="banner">
-      <h1 class="project-name">
-        {{ page.title | default: site.title | default: site.github.repository_name }}
-      </h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+    <header class="masthead">
+      <div class="shell">
+        <a class="masthead__name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <nav aria-label="Main">
+          <ul class="sitenav">
+            {% for item in site.nav %}
+              {% assign target = item.url | relative_url %}
+              <li>
+                <a href="{{ target }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </nav>
+      </div>
     </header>
 
-    <main id="content" class="main-content" role="main">
+    <main id="content">
+      {% if page.heading %}
+        <div class="shell page-head">
+          <h1>{{ page.heading }}</h1>
+          {% if page.subheading %}<p>{{ page.subheading }}</p>{% endif %}
+        </div>
+      {% endif %}
 
-      <section>
-        {{ content }}
-      </section>
-      
-      <footer class="site-footer">
-        {% if site.github.is_project_page %}
-          <span class="site-footer-owner">&copy;  <a href="{{ site.github.repository_url }}">www.laiscarneiro.com</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        {% endif %}
-      </footer>
+      {{ content }}
     </main>
+
+    <footer class="site-footer">
+      <div class="shell">
+        <p>{{ site.title }} — {{ site.footer_affiliation }}</p>
+        <p>Last updated {{ site.time | date: "%B %Y" }}. Built with Jekyll, <a href="{{ site.github.repository_url | default: 'https://github.com/lalacarneiro/laiscarneiro.github.io' }}">source on GitHub</a>.</p>
+      </div>
+    </footer>
   </body>
 </html>

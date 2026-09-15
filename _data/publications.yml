@@ -1,0 +1,116 @@
+# ---------------------------------------------------------------
+# Publication list. Newest first.
+#
+# Fields
+#   title     : article title
+#   authors   : author string exactly as you want it displayed.
+#               Your own name is bolded automatically — keep it
+#               written as "Carneiro, L."
+#   venue     : journal, volume, pages
+#   year      : used to group the list
+#   doi       : full link (https://doi.org/...)
+#   lead      : true when you are first author (adds the plum rule)
+#   note      : one plain-English line about what the paper does
+#   abstract  : optional, shown behind a "Read the abstract" toggle
+#
+# TODO Laís: two entries below are marked "CHECK" — complete the
+# author lists and add the missing DOIs, then delete the CHECK note.
+# ---------------------------------------------------------------
+
+- title: "Expert perceptions of the relative importance of ecological impacts of biological invasions"
+  authors: "Carneiro, L., Caetano, G. O., Wang, S., Arbieu, U., Catford, J. A., Courchamp, F."
+  venue: "PLOS ONE 21(8), e0351775"
+  year: 2026
+  doi: "https://doi.org/10.1371/journal.pone.0351775"
+  lead: true
+  note: "A survey of more than 400 invasion scientists, used to weight impact types against each other instead of treating them as equivalent."
+
+- title: "Expanding invasive species impact assessments to the ecosystem level with EEICAT"
+  authors: "Carneiro, L., Pincheira-Donoso, D., Leroy, B., Bertolino, S., Camacho-Cervantes, M., Cuthbert, R. N., Bang, A., Catford, J. A., South, J., Cooke, S. J., Angulo, E., & Courchamp, F."
+  venue: "PLOS Biology 24(3), e3003665"
+  year: 2026
+  doi: "https://doi.org/10.1371/journal.pbio.3003665"
+  lead: true
+  note: "Extends the EICAT impact classification beyond species-level effects so that ecosystem-level consequences can be scored consistently."
+
+- title: "Quantifying the magnitude of biological invasions using total biomass"
+  authors: "Courchamp, F., Klippel, G., Angulo, E., … Carneiro, L., … Bradshaw, C. J. A."   # CHECK full author list
+  venue: "BioScience 76(5), 429–439"
+  year: 2026
+  doi: "https://doi.org/10.1093/biosci/biaf195"
+  note: "Proposes total non-native biomass as a single, comparable measure of how large an invasion actually is."
+
+- title: "Typology of the ecological impacts of biological invasions"
+  authors: "Carneiro, L., Leroy, B., Capinha, C., Bradshaw, C. J. A., Bertolino, S., Catford, J. A., et al."
+  venue: "Trends in Ecology & Evolution 40(6), 563–574"
+  year: 2025
+  doi: "https://doi.org/10.1016/j.tree.2025.03.010"
+  lead: true
+  note: "Separates the mechanisms that drive invasion impacts from the impacts themselves, and sorts the impacts into a single typology."
+
+- title: "Biological invasions negatively impact global protected areas"
+  authors: "Carneiro, L., Miiller, N. O. R., Cuthbert, R. N., & Vitule, J. R. S."
+  venue: "Science of The Total Environment, 174823"
+  year: 2024
+  doi: "https://doi.org/10.1016/j.scitotenv.2024.174823"
+  lead: true
+  note: "First global quantitative synthesis of what invasive species do inside protected areas: 300 reported effects from 44 species."
+  abstract: >
+    Protected areas underpin global biodiversity conservation and sustainability agendas. Biological invasions increasingly threaten the ecological functioning and long-term conservation value of protected areas, while a lack of information on impact impedes management decisions. We collated data from effects of biological invasions in protected areas to provide the first quantitative analysis of their global impacts. Based on 300 reported effects from 44 invasive species, we show that there are overall negative impacts from invasive species on both biotic and abiotic characteristics of protected areas globally. Impacts were pervasive across population, community, and ecosystem scales, and for the vast majority of invasive taxa with sufficient data. Negative impacts have been incurred around the world, with National Parks and World Heritage Sites in the Neartic and Neotropical regions the most studied. Notwithstanding context-dependencies and uneven research efforts, the recurrent negative impacts of invasive species indicate that current efforts are insufficient to curb current stressors and meet conservation and sustainability targets on land and in water. To address the risk of biological invasions in protected areas, it is imperative to prioritise fundamental research on ecological interactions, establish robust monitoring and prevention programs, and raise awareness through global initiatives.
+
+- title: "Benefits do not balance costs of biological invasions"
+  authors: "Carneiro, L., Hulme, P. E., Cuthbert, R. N., Kourantidou, M., Bang, A., Haubrock, P. J., Bradshaw, C. J. A., Balzani, P., Bacher, S., Latombe, G., Bodey, T. W., Probert, A. F., Quilodrán, C. S., & Courchamp, F."
+  venue: "BioScience 74, 340–344"
+  year: 2024
+  doi: "https://doi.org/10.1093/biosci/biae010"
+  lead: true
+  note: "Argues that the occasional benefits of invasive species cannot be netted off against their costs, because the two fall on different people at different times."
+  abstract: >
+    Biological invasions have profound impacts on biodiversity and ecosystem functioning and services, resulting in substantial economic and health costs estimated in the trillions of dollars. Preventing and managing biological invasions are vital for sustainable development, aligning with the goals of the United Nations Biodiversity Conference. However, some invasive species also offer occasional benefits, leading to divergent perceptions among stakeholders and sectors. Claims that invasion science overlooks positive contributions threaten to hinder proper impact assessment and undermine management. Quantitatively balancing benefits and costs is misleading, because they coexist without offsetting each other. Any benefits also come at a price, affecting communities and regions differently over time. An integrated approach considering both costs and benefits is necessary for understanding and effective management of biological invasions.
+
+- title: "A systematic review of invasive non-native freshwater bivalves"
+  authors: "Prestes, J. G., Carneiro, L., Miiller, N. O. R., Neundorf, A. K. A., Pedroso, C. R., Braga, R. R., et al."
+  venue: "Biological Reviews"
+  year: 2024
+  doi: "https://doi.org/10.1111/brv.13113"
+  note: "Reviews a decade of research on non-native freshwater bivalves and shows how thin the evidence still is outside a handful of species and regions."
+  abstract: >
+    The introduction of invasive species has become an increasing environmental problem in freshwater ecosystems due to the high economic and ecological impacts it has generated. This systematic review covers publications from 2010 to 2020, focusing on non-native invasive freshwater bivalves, a particularly relevant and widespread introduced taxonomic group in fresh waters. We collected information on the most studied species, the main objectives of the studies, their geographical location, study duration, and type of research. Furthermore, we focused on assessing the levels of ecological evidence presented, the type of interactions of non-native bivalves with other organisms and the classification of their impacts. A total of 397 publications were retrieved. The studies addressed a total of 17 species of non-native freshwater bivalves; however, most publications focused on the species Corbicula fluminea and Dreissena polymorpha, which are recognised for their widespread distribution and extensive negative impacts. Many other non-native invasive bivalve species have been poorly studied. A high geographical bias was also present, with a considerable lack of studies in developing countries.
+
+- title: "Taming the terminological tempest in invasion science"
+  authors: "Soto, I., Balzani, P., Carneiro, L., Cuthbert, R. N., Macêdo, R., Serhan Tarkan, A., et al."
+  venue: "Biological Reviews"
+  year: 2024
+  doi: "https://doi.org/10.1111/brv.13071"
+  note: "Proposes a simplified, standardised vocabulary for invasion science, translated into 28 languages."
+  abstract: >
+    Standardised terminology in science is important for clarity of interpretation and communication. In invasion science — a dynamic and rapidly evolving discipline — the proliferation of technical terminology has lacked a standardised framework for its development. Here, we review and evaluate the multiple terms used in invasion science to propose a more simplified and standardised terminology, based on the terms non-native, established non-native and invasive non-native, and propose a protocol for classifying populations based on dispersal mechanism, species origin, population status, and impact.
+
+- title: "Divergent temporal responses of native macroinvertebrate communities to biological invasions"
+  authors: "Soto, I., Macedo, R., Carneiro, L., Briski, E., Cuthbert, R., & Haubrock, P."
+  venue: "Global Change Biology"
+  year: 2024
+  doi: ""   # CHECK add the DOI — this link was missing on the old site
+  note: ""
+
+- title: "Advancing our understanding of biological invasions with long-term biomonitoring data"
+  authors: "Haubrock, P. J., Carneiro, L., Macêdo, R. L., Balzani, P., Soto, I., Rasmussen, J. J., et al."
+  venue: "Biological Invasions"
+  year: 2023
+  doi: "https://doi.org/10.1007/s10530-023-03141-0"
+  note: "Uses four long-term European monitoring datasets to show how much detection of non-native species depends on sustained sampling."
+
+- title: "Invasive species policy in Brazil: a review and critical analysis"
+  authors: "Faria, L., de Carvalho, B. M., Carneiro, L., Miiller, N. O. R., Pedroso, C. R., Occhi, T. V. T., et al."
+  venue: "Environmental Conservation"
+  year: 2022
+  doi: "https://www.cambridge.org/core/journals/environmental-conservation/article/abs/invasive-species-policy-in-brazil-a-review-and-critical-analysis/37E1F26619ABD5B1FDDE115736D7AB2B"
+  note: "Maps 85 pieces of Brazilian federal legislation on invasive species and identifies where the policy gaps are."
+
+- title: "Brazilian pesticides law could poison the world"
+  authors: "Carneiro, L., Faria, L., Miiller, N., Cavalcante, A., Murata, A., & Vitule, J. R. S."
+  venue: "Science 376(6591), 362"
+  year: 2022
+  doi: "https://doi.org/10.1126/science.abo6942"
+  lead: true
+  note: "Letter on the global reach of Brazil's pesticide deregulation."

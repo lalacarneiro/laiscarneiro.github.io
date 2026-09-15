@@ -1,14 +1,60 @@
+# ---------------------------------------------------------------
+# Site settings
+# ---------------------------------------------------------------
 title: "Laís Carneiro"
-description: "Environmental Engineer"
-show_downloads: false
-google_analytics: false
-remote_theme: pages-themes/cayman@v0.2.0
+description: "Invasion ecologist working on how to classify, measure and compare the ecological impacts of invasive species."
+url: "https://www.laiscarneiro.com"
+baseurl: ""
+lang: en
+
+# Shown in the footer of every page
+footer_affiliation: "ESE lab, Université Paris-Saclay, Gif-sur-Yvette, France"
+
+author:
+  name: "Laís Carneiro"
+
+# Used by jekyll-seo-tag for structured data / Twitter cards
+social:
+  name: "Laís Carneiro"
+  links:
+    - https://orcid.org/0000-0002-3828-7751
+    - https://scholar.google.com/citations?user=rUvrtAsAAAAJ
+    - https://github.com/lalacarneiro
+    - https://www.linkedin.com/in/laiscarneiro/
+    - https://www.researchgate.net/profile/Lais-Carneiro
+twitter:
+  username: LaisCarneiro03
+  card: summary
+
+# ---------------------------------------------------------------
+# Navigation — edit here and every page updates
+# ---------------------------------------------------------------
+nav:
+  - title: "About"
+    url: /
+  - title: "Research"
+    url: /research.html
+  - title: "Publications"
+    url: /publications.html
+  - title: "CV"
+    url: /cv.html
+
+# ---------------------------------------------------------------
+# Build
+# ---------------------------------------------------------------
 plugins:
-  - jekyll-remote-theme
-  - jekyll-target-blank
-gems:
-  - jekyll-target-blank  
-target-blank:
-  css_class: ext-link
-  add_css_classes: css-class-one css-class-two
-  rel: nofollow
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+sass:
+  style: compressed
+
+exclude:
+  - README.md
+  - LICENSE

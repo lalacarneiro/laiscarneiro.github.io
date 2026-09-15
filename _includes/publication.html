@@ -1,0 +1,20 @@
+{% assign p = include.pub %}
+{% assign doi = p.doi | default: "" %}
+{% assign note = p.note | default: "" %}
+{% assign abstract = p.abstract | default: "" %}
+<article class="pub{% if p.lead %} pub--lead{% endif %}">
+  <h3 class="pub__title">
+    {% if doi != "" %}<a href="{{ doi }}" target="_blank" rel="noopener">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}
+  </h3>
+  <p class="pub__meta">
+    {{ p.authors | replace: "Carneiro, L.", "<b>Carneiro, L.</b>" }}
+    ({{ p.year }}). <span class="pub__venue">{{ p.venue }}</span>.
+  </p>
+  {% if note != "" %}<p class="pub__note">{{ note }}</p>{% endif %}
+  {% if abstract != "" %}
+  <details class="pub__abstract">
+    <summary>Read the abstract</summary>
+    <p>{{ abstract }}</p>
+  </details>
+  {% endif %}
+</article>
