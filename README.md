@@ -12,7 +12,7 @@ built and served by GitHub Pages.
 | Research page | `research.md` |
 | CV page | `cv.md` |
 | Menu items, site title, social links | `_config.yml` |
-| Colours, fonts, spacing | `assets/css/style.scss` |
+| Colours, fonts, spacing | `assets/css/style.css` |
 | Page shell (header, footer, `<head>`) | `_layouts/default.html` |
 
 Commit to `main` and GitHub Pages rebuilds automatically, usually within a minute.
@@ -26,5 +26,5 @@ first-author papers. The list sorts and groups itself by `year`.
 ## Colours
 
 The palette is defined once as CSS custom properties at the top of
-`assets/css/style.scss`, including a dark-mode block. Change `--plum` to
+`assets/css/style.css`, including a dark-mode block. Change `--plum` to
 re-skin the whole site.
