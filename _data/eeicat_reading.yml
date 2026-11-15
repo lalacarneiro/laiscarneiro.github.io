@@ -1,0 +1,232 @@
+# ---------------------------------------------------------------
+# Reading list for the EEICAT talk page (talks/eeicat.md).
+#
+# Same fields as _data/publications.yml, so the same include
+# renders each entry:
+#   title, authors, year, venue, doi (any full link), note
+#   lead : true  -> vertical line, marks recommended starting points
+#
+# Sections show in the order written below, and entries keep
+# the order you give them (no automatic sorting).
+#
+# TODO Laís: one entry is marked "CHECK" (The Conversation link).
+# ---------------------------------------------------------------
+
+- id: talk
+  title: "EEICAT and related studies"
+  intro: "The EEICAT paper, the typology of ecological impacts on which it is based, and a related study on expert perceptions of impact types."
+  items:
+    - title: "Expanding invasive species impact assessments to the ecosystem level with EEICAT"
+      authors: "Carneiro, L., Pincheira-Donoso, D., Leroy, B., Bertolino, S., Camacho-Cervantes, M., Cuthbert, R. N., Bang, A., Catford, J. A., South, J., Cooke, S. J., Angulo, E., & Courchamp, F."
+      year: 2026
+      venue: "PLOS Biology 24(3), e3003665"
+      doi: "https://doi.org/10.1371/journal.pbio.3003665"
+      lead: true
+      note: "Introduces the Extended EICAT (EEICAT), which classifies 19 impact types across three ecological dimensions and shifts the unit of assessment from the species to the invasion event. Open access."
+    - title: "Typology of the ecological impacts of biological invasions"
+      authors: "Carneiro, L., Leroy, B., Capinha, C., Bradshaw, C. J. A., Bertolino, S., Catford, J. A., et al."
+      year: 2025
+      venue: "Trends in Ecology & Evolution 40(6), 563–574"
+      doi: "https://doi.org/10.1016/j.tree.2025.03.010"
+      note: "Proposes a typology of 19 ecological impact types and distinguishes impact mechanisms from the impacts they cause."
+    - title: "Expert perceptions of the relative importance of ecological impacts of biological invasions"
+      authors: "Carneiro, L., Caetano, G. O., Wang, S., Arbieu, U., Catford, J. A., Courchamp, F."
+      year: 2026
+      venue: "PLOS ONE 21(8), e0351775"
+      doi: "https://doi.org/10.1371/journal.pone.0351775"
+      note: "Survey of more than 400 invasion scientists on the relative importance of each ecological impact type."
+
+- id: why
+  title: "Biological invasions: global context"
+  intro: "Global assessments and syntheses on the extent, ecological consequences and economic costs of biological invasions."
+  items:
+    - title: "Thematic Assessment Report on Invasive Alien Species and their Control"
+      authors: "IPBES"
+      year: 2023
+      venue: "Roy, H. E., Pauchard, A., Stoett, P., & Renard Truong, T. (eds.). IPBES secretariat, Bonn, Germany"
+      doi: "https://doi.org/10.5281/zenodo.7430682"
+      lead: true
+      note: "Global assessment of the status, trends, impacts and management of invasive alien species. A condensed version is available in the <a href='https://doi.org/10.5281/zenodo.7430692' target='_blank' rel='noopener'>Summary for Policymakers</a>."
+    - title: "Global assessment report on biodiversity and ecosystem services"
+      authors: "IPBES"
+      year: 2019
+      venue: "IPBES secretariat, Bonn, Germany"
+      doi: "https://doi.org/10.5281/zenodo.3831673"
+      note: "Identifies invasive alien species as one of the five main direct drivers of change in nature."
+    - title: "Scientists' warning on invasive alien species"
+      authors: "Pyšek, P., Hulme, P. E., Simberloff, D., Bacher, S., Blackburn, T. M., et al."
+      year: 2020
+      venue: "Biological Reviews 95(6), 1511–1534"
+      doi: "https://doi.org/10.1111/brv.12627"
+      note: "Review of the impacts of invasive alien species on biodiversity, ecosystem functioning and human livelihoods, and of the measures needed to reduce them."
+    - title: "Invasive predators and global biodiversity loss"
+      authors: "Doherty, T. S., Glen, A. S., Nimmo, D. G., Ritchie, E. G., & Dickman, C. R."
+      year: 2016
+      venue: "Proceedings of the National Academy of Sciences 113(40), 11261–11265"
+      doi: "https://doi.org/10.1073/pnas.1602480113"
+      note: "Quantifies the contribution of invasive mammalian predators to global extinctions and current threats to birds, mammals and reptiles."
+    - title: "Global patterns in threats to vertebrates by biological invasions"
+      authors: "Bellard, C., Genovesi, P., & Jeschke, J. M."
+      year: 2016
+      venue: "Proceedings of the Royal Society B 283, 20152454"
+      doi: "https://doi.org/10.1098/rspb.2015.2454"
+      note: "Global analysis of the vertebrate groups and regions most threatened by biological invasions."
+    - title: "High and rising economic costs of biological invasions worldwide"
+      authors: "Diagne, C., Leroy, B., Vaissière, A.-C., Gozlan, R. E., Roiz, D., Jarić, I., et al."
+      year: 2021
+      venue: "Nature 592, 571–576"
+      doi: "https://doi.org/10.1038/s41586-021-03405-6"
+      note: "Global estimate of the economic costs of biological invasions, based on the InvaCost database."
+
+- id: eicat
+  title: "The EICAT framework"
+  intro: "Development and implementation of the IUCN Environmental Impact Classification for Alien Taxa."
+  items:
+    - title: "IUCN EICAT Categories and Criteria: The Environmental Impact Classification for Alien Taxa"
+      authors: "IUCN"
+      year: 2020
+      venue: "First edition. IUCN, Gland, Switzerland"
+      doi: "https://doi.org/10.2305/IUCN.CH.2020.05.en"
+      lead: true
+      note: "IUCN standard defining the EICAT impact categories, mechanisms and classification criteria."
+    - title: "A unified classification of alien species based on the magnitude of their environmental impacts"
+      authors: "Blackburn, T. M., Essl, F., Evans, T., Hulme, P. E., Jeschke, J. M., Kühn, I., et al."
+      year: 2014
+      venue: "PLOS Biology 12(5), e1001850"
+      doi: "https://doi.org/10.1371/journal.pbio.1001850"
+      note: "Original proposal of the classification scheme, with five semi-quantitative impact levels from Minimal to Massive, analogous to the IUCN Red List approach."
+    - title: "Framework and guidelines for implementing the proposed IUCN Environmental Impact Classification for Alien Taxa (EICAT)"
+      authors: "Hawkins, C. L., Bacher, S., Essl, F., Hulme, P. E., Jeschke, J. M., Kühn, I., et al."
+      year: 2015
+      venue: "Diversity and Distributions 21(11), 1360–1363"
+      doi: "https://doi.org/10.1111/ddi.12379"
+      note: "Framework and guidelines for the consistent application of EICAT, including the treatment of uncertainty and the documentation required."
+
+- id: field
+  title: "Impact measurement and terminology"
+  intro: "Syntheses of how invasion impacts are measured and reported, and of the terminology used in invasion science."
+  items:
+    - title: "The 'known unknowns' of invasive species impact measurement"
+      authors: "Crystal-Ornelas, R., & Lockwood, J. L."
+      year: 2020
+      venue: "Biological Invasions 22, 1513–1525"
+      doi: "https://doi.org/10.1007/s10530-020-02200-0"
+      note: "Assessment of which impacts of invasive species are measured and reported, and of the resulting gaps in impact evidence."
+    - title: "Synthesising 35 years of invasive non-native species research"
+      authors: "Stevenson, E. A., et al."
+      year: 2023
+      venue: "Biological Invasions"
+      doi: "https://doi.org/10.1007/s10530-023-03067-7"
+      note: "Bibliometric synthesis of 35 years of research on invasive non-native species."
+    - title: "Taming the terminological tempest in invasion science"
+      authors: "Soto, I., Balzani, P., Carneiro, L., Cuthbert, R. N., et al."
+      year: 2024
+      venue: "Biological Reviews 99(4), 1357–1390"
+      doi: "https://doi.org/10.1111/brv.13071"
+      note: "Review of terminology in invasion science and proposal of a standardised framework, translated into 28 languages."
+
+- id: ecology-ai
+  title: "Ecological literature, text mining and artificial intelligence"
+  intro: "Bibliometric analyses of ecological research and applications of large language models to evidence synthesis and data extraction from the scientific literature."
+  items:
+    - title: "Trends in ecology: shifts in ecological research themes over the past four decades"
+      authors: "McCallen, E., et al."
+      year: 2019
+      venue: "Frontiers in Ecology and the Environment 17(2), 109–116"
+      doi: "https://doi.org/10.1002/fee.1993"
+      note: "Analysis of shifts in research themes in ecology over four decades."
+    - title: "Is ecology different when studied with citizen scientists? A bibliometric analysis"
+      authors: "Castagneyrol, B., Bedessem, B., & Julliard, R."
+      year: 2023
+      venue: "Ecology and Evolution 13, e10488"
+      doi: "https://doi.org/10.1002/ece3.10488"
+      note: "Bibliometric comparison of ecological research conducted with and without citizen scientists."
+    - title: "Leveraging AI to improve evidence synthesis in conservation"
+      authors: "Berger-Tal, O., et al."
+      year: 2024
+      venue: "Trends in Ecology & Evolution 39(6), 548–557"
+      doi: "https://doi.org/10.1016/j.tree.2024.04.007"
+      lead: true
+      note: "Review of the opportunities and risks of artificial intelligence in conservation evidence synthesis, with recommendations for its use."
+    - title: "Testing the reliability of an AI-based large language model to extract ecological information from the scientific literature"
+      authors: "Gougherty, A. V., & Clipp, H. L."
+      year: 2024
+      venue: "npj Biodiversity 3, 13"
+      doi: "https://doi.org/10.1038/s44185-024-00043-9"
+      note: "Comparison of LLM-based and manual extraction of ecological data from the literature, in terms of speed and accuracy."
+    - title: "Large language models overcome the challenges of unstructured text data in ecology"
+      authors: "Castro, A., Pinto, J., Reino, L., Pipek, P., & Capinha, C."
+      year: 2024
+      venue: "Ecological Informatics 82, 102742"
+      doi: "https://doi.org/10.1016/j.ecoinf.2024.102742"
+      note: "Evaluation of GPT-3.5, GPT-4 and LLaMA-2 for identifying, extracting, geocoding and structuring species distribution data from news reports and research articles."
+    - title: "Large language models help facilitate the automated synthesis of information on potential pest controllers"
+      authors: "Scheepens, D., Millard, J., Farrell, M., & Newbold, T."
+      year: 2024
+      venue: "Methods in Ecology and Evolution 15(7), 1261–1273"
+      doi: "https://doi.org/10.1111/2041-210X.14341"
+      note: "Application of LLMs to the screening and classification of literature on potential natural enemies of agricultural pests."
+    - title: "Extracting massive ecological data on state and interactions of species using large language models"
+      authors: "Keck, F., et al."
+      year: 2025
+      venue: "bioRxiv (preprint)"
+      doi: "https://doi.org/10.1101/2025.01.24.634685"
+      note: "Large-scale extraction of species interactions from more than 80,000 scientific articles using LLMs. Preprint."
+
+- id: books
+  title: "Books"
+  intro: "Reference texts on invasion ecology, from introductory to advanced."
+  items:
+    - title: "Invasive Species: What Everyone Needs to Know"
+      authors: "Simberloff, D."
+      year: 2013
+      venue: "Oxford University Press, Oxford"
+      lead: true
+      note: "Introductory overview of biological invasions, their impacts and their management, for a general readership."
+    - title: "Invasion Ecology (2nd edition)"
+      authors: "Lockwood, J. L., Hoopes, M. F., & Marchetti, M. P."
+      year: 2013
+      venue: "Wiley-Blackwell"
+      doi: "https://www.wiley.com/go/invasionecology"
+      note: "Textbook covering the invasion process from transport and establishment to impacts and management. Chapters 9 and 10 address ecological impacts."
+    - title: "The Ecology of Invasions by Animals and Plants (2nd edition)"
+      authors: "Elton, C. S. (with contributions by D. Simberloff & A. Ricciardi)"
+      year: 2020
+      venue: "Springer, Cham. First published 1958"
+      doi: "https://doi.org/10.1007/978-3-030-34721-5"
+      note: "Annotated edition of the 1958 monograph regarded as the foundation of invasion ecology, including previously unpublished notes by the author."
+
+- id: tools
+  title: "Databases, resources and media"
+  intro: "Assessment resources, databases and non-technical summaries of EEICAT."
+  items:
+    - title: "EICAT at the IUCN: categories, guidelines and reporting template"
+      authors: "IUCN"
+      year: 2020
+      venue: "iucn.org"
+      doi: "https://www.iucn.org/resources/conservation-tool/environmental-impact-classification-alien-taxa"
+      note: "Official EICAT resources: categories and criteria, guidelines and reporting template."
+    - title: "Global Invasive Species Database (GISD)"
+      authors: "IUCN SSC Invasive Species Specialist Group"
+      year: 2026
+      venue: "iucngisd.org"
+      doi: "https://www.iucngisd.org/gisd/"
+      note: "IUCN database of invasive species profiles, where global EICAT assessments are published."
+    - title: "InvaCost, a public database of the economic costs of biological invasions worldwide"
+      authors: "Diagne, C., Leroy, B., Gozlan, R. E., Vaissière, A.-C., Assailly, C., Nuninger, L., Roiz, D., Jourdain, F., Jarić, I., & Courchamp, F."
+      year: 2020
+      venue: "Scientific Data 7, 277"
+      doi: "https://doi.org/10.1038/s41597-020-00586-z"
+      note: "Data paper describing InvaCost, the public database of the economic costs of biological invasions."
+    - title: "How biological invasions are silently remodelling ecosystems"
+      authors: "Carneiro, L., & Courchamp, F."
+      year: 2026
+      venue: "The Conversation"
+      doi: ""   # CHECK: paste the theconversation.com link here
+      note: "Non-technical summary of the EEICAT framework, with case examples."
+    - title: "Invasive species: improving the assessment of how they redefine ecosystems"
+      authors: "CNRS press release"
+      year: 2026
+      venue: "cnrs.fr"
+      doi: "https://www.cnrs.fr/en/press/invasive-species-improving-assessment-how-they-redefine-ecosystems"
+      note: "Press release on the publication of EEICAT."
